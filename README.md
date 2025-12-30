@@ -8,9 +8,9 @@ I am a Data Enthusiast transitioning from web development to a focus on data ana
 ![Github Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaturi)
 
 - 🔭 I’m currently working on - Data Science and Statistics.
-- 🌱 I want to learn - Machine Learning Algorithms.
 - 😄 Words that describe me - Self-motivated, focused, hardworking and perfectionist.
-- 💬 Ask me about - Python, SQL
+- 💬 Ask me about - Power BI, Python, SQL.
+- 🌱 I want to learn - Machine Learning Algorithms.
 - 📫 How to reach me - millie.paturi@gmail.com
 
 

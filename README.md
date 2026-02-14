@@ -9,7 +9,7 @@ I am a Data Enthusiast transitioning from web development to a focus on data ana
 
 - 🔭 I’m currently working on - Data Science and Statistics.
 - 😄 Words that describe me - Self-motivated, focused, hardworking and perfectionist.
-- 💬 Ask me about - Power BI, Python, SQL.
+- 💬 Ask me about - SQL, Power BI, Python
 - 🌱 I want to learn - Machine Learning Algorithms.
 - 📫 How to reach me - millie.paturi@gmail.com
 

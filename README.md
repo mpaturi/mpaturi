@@ -1,7 +1,7 @@
 ### Hi there, I am Millie Paturi 👋
 
 #### About Me
-I am a AI Enthusiast transitioning from softweare engineering to everything Gen AI Engineering. My expertise lies in leveraging RAG, LLMs, SQL, Python, and tools like PowerBI and cloud technnologies to uncover insights and drive data-driven decisions. I have successfully executed projects showcasing my skills in data analysis and visualization. I am passionate about turning data into actionable insights. Be sure to check out my repositories that showcase a range of data analysis technologies. 
+I am a AI Enthusiast transitioning from software engineering to Gen AI Engineering. My expertise lies in leveraging RAG, LLMs, SQL, Python, and tools like PowerBI and cloud technnologies to uncover insights and drive data-driven decisions. I have successfully executed projects showcasing my skills in data analysis and visualization. I am passionate about turning data into actionable insights. Be sure to check out my repositories that showcase a range of data analysis technologies. 
 
 ## My Github Stats
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mpaturi)

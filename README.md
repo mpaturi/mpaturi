@@ -8,8 +8,7 @@ I am a AI Enthusiast transitioning from software engineering to Gen AI Engineeri
 
 - 🔭 I’m currently working on - AI, RAG, Agents, LLM.
 - 😄 Words that describe me - Self-motivated, focused, hardworking and perfectionist.
-- 💬 Ask me about - SQL, Power BI, Python
-- 🌱 I want to learn - Machine Learning Algorithms.
+- 💬 Ask me about - Gen AI, SQL, Python, Power BI.
 - 📫 How to reach me - millie.paturi@gmail.com
 
 

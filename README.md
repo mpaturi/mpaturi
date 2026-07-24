@@ -5,7 +5,6 @@ I am a AI Enthusiast transitioning from software engineering to Gen AI Engineeri
 
 ## My Github Stats
 ![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=mpaturi)
-![Github Stats 2](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaturi)
 
 - 🔭 I’m currently working on - AI, RAG, Agents, LLM.
 - 😄 Words that describe me - Self-motivated, focused, hardworking and perfectionist.
